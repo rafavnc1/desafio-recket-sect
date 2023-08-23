@@ -7,14 +7,14 @@ Neste projeto foi criado uma página para reforçar os de html e CSS.
 
 This project involved creating a page to reinforce HTML and CSS skills.
 
-#### assuntos abordados neste deasfio
+## Assuntos abordados neste deasfio
 
 - Estrutura HTML com tags semânticas / HTML structure with semantic tags
 - Conceito box Model, flexbox e botões / Box Model, flexbox and buttons concepts
 - Ferramenta DevTools do navegador / Browser devtools
 
 ## Layout
-![screen1](./assets/rocket.sect-page.png.png)
+![screen1](./assets/rocket.sect-page.png)
 
 # Tecnologias utilizadas / Tech stack
 - HTML
