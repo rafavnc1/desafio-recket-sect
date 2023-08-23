@@ -20,6 +20,7 @@ This project involved creating a page to reinforce HTML and CSS skills.
 - HTML
 - CSS
 - Figma
+- Git e Github
 
 ## Autor
 
