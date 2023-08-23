@@ -3,7 +3,7 @@
 
 # Sobre o projeto / About the project
 
-Neste projeto foi criado uma página para reforçar os de html e CSS.
+Neste projeto foi criado uma página para reforçar os conceitos de html e CSS.
 
 This project involved creating a page to reinforce HTML and CSS skills.
 
